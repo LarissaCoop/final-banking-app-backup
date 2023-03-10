@@ -6,3 +6,6 @@
 o	Containerized:  Frontend: React, Bootstrap, Babel, Express, Docker Container, and MongoDB
 •	Features: Reactive graphics and authentication make this fun and convenient.
 •	License: ISC
+< <img title="a title" alt="Alt text" src="https://github.com/LarissaCoop/final-banking-app-backup/blob/main/Bad-Bank-Screen-Shot.jpg#:~:text=main-,final%2Dbanking%2Dapp%2Dbackup,/Bad%2DBank%2DScreen%2DShot.jpg,-Go%20to%20file">
+
+
